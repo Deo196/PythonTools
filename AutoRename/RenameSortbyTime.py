@@ -1,5 +1,7 @@
 import os
 
+i = input()
+
 folder_path = r'./pic' # your path
 os.chdir(folder_path) # make the path active
 x = sorted(os.listdir(), key=os.path.getctime)  # sorted using creation time
@@ -21,11 +23,13 @@ files = os.listdir(path)
 a = 0
 
 
+
+
 for index in oldList:
     print(index)
     a = a+1
     print(a)
-    os.rename(index , 'news' + str(a) + '.jpg')
+    os.rename(index , 'news'+ str(i) + '_' + str(a) + '.jpg')
     
 
 
