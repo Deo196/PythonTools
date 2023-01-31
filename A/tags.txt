@@ -1,0 +1,36 @@
+
+Medialink :
+<img class=\"w-50\" src=\"../img/news/news75_1.jpg\"/>
+
+Morimatu:
+<img class=\"img-fluid\" src=\"../img/news/news76_1.jpg\"/>
+
+Chevalier:
+<img style=\"width:100%\" src=\"../../images/news/news28_1.jpg\">
+
+Gome > Responsibilities:
+<a href=\"\" target=\"_blank\"><img src=\"\" width=\" 600\" border=\"0\" ></a>
+
+
+Morimatu:
+<span style=\"font-family: 'Montserrat';\">&</span>
+
+
+<video class=\"video_fill\" controls poster=\"../img/news/news70_poster.jpg\"><source src=\"../video/news70.mp4\" type=\"video/mp4\"></video>
+
+<a href=\" \" target=\"_blank\"></a>
+
+<a href=" " target="_blank"></a>
+
+clear cache tag:
+<meta http-equiv="Cache-Control" content="no-store" />
+
+Web config Version:
+<%= System.Web.Configuration.WebConfigurationManager.AppSettings["Version"].ToString() %>
+
+Get File Last Modify Time js:
+<script src="https://cdn.aconnect.com.hk/js/GetFileLastModify.js"></script>
+
+SEO:
+<meta name="keywords" content=" ">
+
